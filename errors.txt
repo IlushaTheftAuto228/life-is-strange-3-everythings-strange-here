@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/screens.rpy", line 793: expected a keyword argument, colon, or end of line.
+    textbutton _"Русский" action Language(None)
+                ^
+
+Ren'Py Version: Ren'Py 8.0.3.22090809
+Wed Jan  3 14:19:53 2024
